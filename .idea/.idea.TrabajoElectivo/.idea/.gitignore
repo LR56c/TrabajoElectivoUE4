@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.TrabajoElectivo.iml
+# Datasource local storage ignored files
+/../../../../../../../:\UE4\Proyectos\TrabajoElectivo\.idea\.idea.TrabajoElectivo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
